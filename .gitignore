@@ -1,0 +1,17 @@
+data/
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+*.joblib
+*.zip
+*.tar.gz
+
+mlruns/
+models/
+artifacts/
+
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv/
